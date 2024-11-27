@@ -1,23 +1,4 @@
 #!/usr/bin/python
-
-"""
-
-A Framework of Back Propagation Neural Network（BP） model
-
-Easy to use:
-    * add many layers as you want ！！！
-    * clearly see how the loss decreasing
-Easy to expand:
-    * more activation functions
-    * more loss functions
-    * more optimization method
-
-Author: Stephen Lee
-Github : https://github.com/RiptideBo
-Date: 2017.11.23
-
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 
